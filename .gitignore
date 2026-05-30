@@ -1,0 +1,15 @@
+# Local user data — keep out of version control
+pomodoro/config.json
+pomodoro/stats.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Claude
+.claude/
+
+# IDE
+.vscode/
+.idea/
